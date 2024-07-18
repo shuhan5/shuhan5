@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello World>! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 
@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning Computational Neuroscience, System Neuroscience, Signal Processing, Neuropixels Implementation... 
 
-- 👯 I’m looking to collaborate on Neuroscience projects, articles... 
+- 👯 I’m open to collaborate on Neuroscience projects, articles... 
 
-- 💬 Talk to me about Python, Matlab, Open Source... 
+- 💬 Talk to me about Neuroscience,Python, Matlab, Bouldering, Surfing, Art... 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
