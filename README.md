@@ -5,15 +5,14 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shuhan5.shuhan)
 
 </p>
 <div size='20px'> Hi! My name is Shuhan Yang. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif(https://i.gifer.com/1fZB.gif)" width = 100px height='100px'></h2>
+<h2> About Me <img src = "91ecd2311e7def6121a9d55fcca1c29f_w200.webp" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.gregadunn.com/wp-content/uploads/2016/03/Brainbow-Hippocampus-in-Color-2020-remastered.jpg" />
 
 
 - 🔭 I’m currently working on decoding spatial information integration mechanism regarding the Medial Septum in rats.
@@ -42,11 +41,7 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhan5&theme=highcontrast" />
-</a>
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=highcontrast)
+</a>  
 
 
 <br>
