@@ -41,7 +41,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shuhan5&count_private=true&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=highcontrast" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhan5&theme=highcontrast" />
 </a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
