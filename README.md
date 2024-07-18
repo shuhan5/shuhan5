@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png" alt="cover" />
 </div>
 
-<h1> Hello World>! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello World! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 
